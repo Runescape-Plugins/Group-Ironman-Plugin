@@ -1,0 +1,13 @@
+{
+    "name": "Group Ironman Tracker",
+    "version": "0.1.0",
+    "contactEmailAddress": "info@rs3groupiron.men",
+    "requiredDependencies": { "prettyui": 6398181 },
+    "optionalDependencies": {},
+    "requiredPermissions": [ "httpAccess" ],
+    "optionalPermissions": [],
+    "urls": {
+        "api": "https://api.rs3groupiron.men"
+    },
+    "hasRibbonIcon": true
+}
